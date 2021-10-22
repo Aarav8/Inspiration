@@ -1,0 +1,93 @@
+#Hobbies {
+    color: #FFF;
+    height: 800px;
+    display: table;
+    float: left;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+}
+#contact{
+    
+}
+#inspiration h1 {
+    color: darkorange;
+    font-size: 40px;
+}
+#inspiration h2 {
+    color: darkseagreen;
+    font-size: 40px;
+}
+
+#work {
+    background: linear-gradient(#004ac2 0%, #faf20a 100%);
+}
+
+#inspiration {
+    background: linear-gradient(#004ac2 0%, #faf20a 100%);
+}
+
+body {
+    background: linear-gradient(#004ac2 0%, #faf20a 100%);
+}
+
+.h2class {
+    color: blue;
+    font-size: 40;
+}
+
+#home {
+    background-color: aliceblue;
+}
+
+.hclass {
+    text-align: center;
+    font-size: 40;
+
+}
+
+#work h2 {
+    text-align: center;
+    font-size: 40;
+
+}
+
+#image {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+
+body {
+
+    text-align: center;
+}
+
+.links {
+    font-family: fantasy;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    float: right;
+    background-color: brown;
+}
+
+#menu {
+    position: fixed;
+    list-style: none;
+    top: 20px;
+    cursor: pointer;
+    z-index: 10;
+    right: 30px;
+}
+
+.links:hover {
+    background-color: chartreuse;
+    font-size: 25px;
+    text-decoration: underline;
+    text-shadow: none;
+}
